@@ -1,0 +1,4 @@
+A RNAseq-based FPKM gene expression matrix from a gene knockdown experiment is provided. 
+The experiment includes four conditions: untreated cells (UT), negative control cells (NC), and cells treated with knockdown methods A (A) and C (C). 
+Gene expression was measured at early (.1) and late (.2) time points. UT cells remained untreated, 
+NC cells received treatment without the gene knockdown component, while cells under A and C underwent gene depletion using different methods.
